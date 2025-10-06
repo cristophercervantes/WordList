@@ -33,14 +33,13 @@ This repository aims to:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/xss-payloads.git
+   git clone https://github.com/cristophercervantes/xss-payloads.git
    cd xss-payloads
    ```
 
 2. **Explore Payloads**:
-   - Navigate to the `payloads/` directory for raw XSS payloads.
+   - Navigate to the `payloads directly.
    - Check `encodings/` for encoded versions (HTML entity, JavaScript Unicode, etc.).
-   - Review `docs/` for usage guides and trigger conditions.
 
 3. **Set Up a Test Environment**:
    - Install a local lab like DVWA:
